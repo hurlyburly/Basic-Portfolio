@@ -75,25 +75,28 @@ body{
 }
 #contact-name{
     width:100%;
-    margin-top:2%;
-    margin-bottom:2%;
+    margin-top:1%;
+    margin-bottom:1%;
 }
 #contact-email{
     width:100%;
-    margin-top:2%;
-    margin-bottom:2%;
+    margin-top:1%;
+    margin-bottom:1%;
 }
 #contact-message{
     width:100%;
     height:50px;
-    margin-top:2%;
-    margin-bottom:2%;
+    margin-top:1%;
+    margin-bottom:1%;
 }
 #contact-submit{
-    width:100%;
+    width:10%;
     margin-top:2%;
     margin-bottom:2%;
     background-color: #4aaaa5;
+    color:#fff;
+    font-size:16px;
+    padding:8px;
 }
 .profile-pic{
     height:150px;
