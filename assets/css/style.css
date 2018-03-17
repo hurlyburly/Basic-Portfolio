@@ -51,7 +51,7 @@ li a:hover{
     text-decoration:underline;
 }
 li :last-child{
-    border-right:none; 
+    border-right:none;
 }
 .active{
     background-color:#4aaaa5;
@@ -149,6 +149,7 @@ body{
     line-height:2.0em;
 }
 .footer{
+    border-top:5px solid #4aaaa5;
     float:left;
     background-color:#666666;
     margin:auto;
