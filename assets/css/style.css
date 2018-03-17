@@ -34,7 +34,7 @@ ul{
 }
 li{
     float:right;
-    border-right:1px solid #777;
+    border-right:1px solid #ddd;
 }
 li a{
     display:block;
@@ -45,6 +45,10 @@ li a{
     width:auto;
     margin:2px;
     border-right:1px;
+    text-decoration:none;
+}
+li a:hover{
+    text-decoration:underline;
 }
 li :last-child{
     border-right:none; 
