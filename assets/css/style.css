@@ -106,6 +106,10 @@ body{
     background-color:#4aaaa5;
     height:auto;
     width:100%;
+    text-align:center;
+    color:#fff;
+    margin-top:170px;
+    padding:5px 0 5px 0;
 }
 #portfolio-1{
     margin:5%;
