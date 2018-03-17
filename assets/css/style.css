@@ -98,7 +98,7 @@ body{
 }
 .portfolio-images{
     display:inline-block;
-    background-image:url(../images/portfolio-images.png);
+    background-image:url(../images/Portfolio-images.png);
     height:200px;
     width:300px;
 }
@@ -106,7 +106,6 @@ body{
     background-color:#4aaaa5;
     height:auto;
     width:100%;
-    margin-bottom:10px;
 }
 #portfolio-1{
     margin:5%;
